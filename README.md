@@ -1,4 +1,4 @@
-# Nai_Synthetic
+# Nai-Synthetic
 
 The synthetic data follows the schema as in the NAI backend branch:
 
